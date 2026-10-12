@@ -1,0 +1,14 @@
+biopython
+bioservices
+datasets
+fair-esm
+gemmi
+huggingface-hub>=0.19.3,<1.0
+numpy
+pandas
+pubchempy
+rdkit
+requests
+torch
+tqdm
+transformers>=4.36,<5
